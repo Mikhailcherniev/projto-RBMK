@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="teste.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+<title>Projeto 01</title>
+
+<script>
+    var slideIndex = 1;
+    showDivs(slideIndex);
+
+    function plusDivs(n) {
+      showDivs(slideIndex += n);
+    }
+
+    function currentDiv(n) {
+      showDivs(slideIndex = n);
+    }
+
+    function showDivs(n) {
+      var i;
+      var x = document.getElementsByClassName("mySlides");
+      var dots = document.getElementsByClassName("demo");
+      if (n > x.length) {slideIndex = 1}    
+      if (n < 1) {slideIndex = x.length}
+      for (i = 0; i < x.length; i++) {
+         x[i].style.display = "none";  
+      }
+      for (i = 0; i < dots.length; i++) {
+         dots[i].className = dots[i].className.replace(" w3-white", "");
+      }
+      x[slideIndex-1].style.display = "block";  
+      dots[slideIndex-1].className += " w3-white";
+    }
+</script>
+</head>
+<body>
+    <div class="teste">
+        <div class="elemento"><img class="logo" src="logo.png" alt="logo">
+            <img class="nome" src="image (1).png" alt="overwatch">
+            <a href="#">
+                <div class="botão1"></div>
+            </a>
+            <a href="#">
+                <div class="botão2"></div>
+            </a>
+            <a href="#">
+                <div class="botão3"></div>
+            </a>
+            <a href="#">
+                <div class="botão4"></div>
+            </a>
+        </div>
+        <div class="herois">
+
+        <div class="suporte">
+
+        <img src="ana.png" alt="junker queen" class="ana">
+        <img src="moira.png" alt="moira" class="moira">
+        <img src="marcela.png" alt="mercy" class="mercy">
+        <img src="kiriko.png" alt="kiriko" class="kiriko">
+        <img src="gay.png" alt="life" class="gay">
+        <img src="brigitte.png" alt="brigitte" class="brigitte">
+        <img src="boludo.png" alt="boludo" class="boludo">
+        <img src="batista.png" alt="" class="batista">
+        <img src="matheus.png" alt="" class="matheus">
+
+    </div>
+        <div class="dano">
+        <img src="cubana.png" alt="" class="cubana">
+        <img src="eco.png" alt="" class="eco">
+        <img src="genji.png" alt="" class="genji">
+        <img src="hanzo.png" alt="" class="hanzo">
+        <img src="ashe.png" alt="" class="ashe">
+        <img src="indiana.png" alt="" class="indiana">
+        <img src="fahra.png" alt="" class="fahra">
+        <img src="mei.png" alt="" class="mei">
+        <img src="junkrat.png" alt="" class="junkrat">
+        <img src="pedofilo.png" alt="" class="pedofilo">
+        <img src="reaper.png" alt="" class="reaper">
+        <img src="tom.png" alt="" class="tom">
+        <img src="seujorge.png" alt="" class="seujorge">
+        <img src="trace.png" alt="" class="tracer">
+        <img src="soldado.png" alt="" class="soldado">
+        <img src="widow.png" alt="" class="widow">
+        <img src="bastion.png" alt="" class="bastion">
+    </div>
+
+        <div class="tanque">
+        <img src="wball.png" alt="" class="wball">
+        <img src="winston.png" alt="" class="winston">
+        <img src="ribamar.png" alt="" class="ribamar">
+        <img src="sigma.png" alt="" class="sigma">
+        <img src="agricola.png" alt="" class="agricola">
+        <img src="orisa.png" alt="" class="orisa">
+        <img src="JunkerK.png" alt="" class="Junker">
+        <img src="40mt2.png" alt="" class="porco">
+        <img src="doomfist.png" alt="" class="doomfist">
+        <img src="D.va.png" alt="" class="Dva">
+        <img src="zarya.png" alt="" class="zarya">
+    </div>
+</div>
+    <div class="content">
+        <div class="slides">
+            <input type="radio" name="radio" id="radio1" checked>
+            <input type="radio" name="radio" id="radio2">
+            <input type="radio" name="radio" id="radio3">
+
+            <div class="slide s1">
+                <img src="sliderG.png" alt="suporte">
+            </div>
+            <div class="slide">
+                <img src="image (4).png" alt="sei nao">
+            </div>
+            <div class="slide">
+                <img src="matheus (2).png" alt="eco">
+            </div>
+
+            <div class="navigation">
+                <label class="bar" for="radio1"></label>
+                <label class="bar" for="radio2"></label>
+                <label class="bar" for="radio3"></label>
+            </div>
+        </div>
+    </div>
+
+    
+
+    
+</body>
+
+</html>

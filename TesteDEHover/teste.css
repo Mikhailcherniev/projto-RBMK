@@ -1,0 +1,912 @@
+
+
+.Dva{
+    background-color: gray;
+    top: 15px;
+    left: 100px;
+    position: absolute;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.Dva:hover{
+    background-color: rgb(255, 0, 238);
+    filter: drop-shadow(0px 4px 4px rgb(86, 1, 80));
+}
+
+.ana{
+    background-color: gray;
+    position: absolute;
+    top: 15px;
+    left: 700px;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.ana:hover{
+    background-color: rgb(14, 134, 239);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+
+
+.batista{
+    background-color: gray;
+    position: absolute;
+    top: 15px;
+    left: 800px;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.batista:hover{
+    background-color: rgb(235, 211, 32);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.brigitte{
+    background-color: gray;
+    position: absolute;
+    top: 15px;
+    left: 900px;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.brigitte:hover{
+    background-color: rgb(135, 0, 0);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.gay{
+    background-color: gray;
+    position: absolute;
+    top: 110px;
+    left: 800px;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.gay:hover{
+    background-color: rgb(225, 0, 255);
+    filter: drop-shadow(0px 4px 4px rgb(255, 0, 238));
+}
+
+.kiriko{
+    background-color: gray;
+    position: absolute;
+    top: 110px;
+    left: 700px;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.kiriko:hover{
+    background-color: rgb(85, 0, 14);
+    filter: drop-shadow(0px 4px 4px rgb(255, 136, 136));
+}
+
+.moira{
+    background-color: gray;
+    position: absolute;
+    top: 205px;
+    left: 800px;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.moira:hover{
+    background-color: purple;
+    filter: drop-shadow(0px 4px 4px rgb(65, 0, 66));
+}
+
+.doomfist{
+    background-color: gray;
+    position: absolute;
+    top: 15px;
+    left: 195px;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.doomfist:hover{
+    background-color: rgb(62, 0, 0);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.orisa{
+    background-color: gray;
+    top: 15px;
+    left: 295px;
+    position: absolute;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.orisa:hover{
+    background-color: rgb(175, 85, 235);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.widow{
+    position: absolute;
+    top: 410px;
+    left: 200px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.widow:hover{
+    background-color: rgb(54, 8, 54);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.wball{
+    background-color: gray;
+    left: 250px;
+    top:300px;
+    position: absolute;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.wball:hover{
+    background-color: rgb(184, 185, 127);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.tom{
+    position: absolute;
+    top: 410px;
+    left: 300px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.tom:hover{
+    background-color: rgb(230, 1, 1);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.soldado{
+    position: absolute;
+    top: 410px;
+    left: 400px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.soldado:hover{
+    background-color: rgb(207, 65, 9);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.sigma{
+    background-color: gray;
+    position: absolute;
+    left: 200px;
+    top: 210px;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.sigma:hover{
+    background-color: rgb(2, 99, 84);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.seujorge{
+    position: absolute;
+    top: 410px;
+    left: 500px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.seujorge:hover{
+    background-color: rgb(145, 13, 13);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.ribamar{
+    background-color: gray;
+    position: absolute;
+    top: 110px;
+    left: 195px;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.ribamar:hover{
+    background-color: rgb(39, 4, 54);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.reaper{
+    position: absolute;
+    top: 410px;
+    left: 600px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.reaper:hover{
+    background-color: rgb(0, 0, 0);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.pedofilo{
+    position: absolute;
+    top: 505px;
+    left: 300px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.pedofilo:hover{
+    background-color: rgb(197, 71, 71);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.winston{
+    background-color: gray;
+    position: absolute;
+    top:210px;
+    left: 300px;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.winston:hover{
+    background-color: rgb(59, 0, 104);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.97));
+}
+
+.mei{
+    position: absolute;
+    top: 505px;
+    left: 200px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.mei:hover{
+    background-color: rgb(38, 117, 190);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.matheus{
+    background-color: gray;
+    position: absolute;
+    top: 110px;
+    left: 900px;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.matheus:hover{
+    background-color: rgb(6, 109, 40);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.junkrat{
+    position: absolute;
+    top: 505px;
+    left: 400px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.junkrat:hover{
+    background-color: rgb(194, 191, 35);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.indiana{
+    position: absolute;
+    top: 505px;
+    left: 500px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.indiana:hover{
+    background-color: rgb(40, 124, 150);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.hanzo{
+    position: absolute;
+    top: 505px;
+    left: 600px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.hanzo:hover{
+    background-color: rgb(27, 22, 22);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.genji{
+    position: absolute;
+    top: 600px;
+    left: 300px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.genji:hover{
+    background-color: rgb(100, 223, 43);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.fahra{
+    position: absolute;
+    top: 600px;
+    left: 200px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.fahra:hover{
+    background-color: rgb(118, 123, 200);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.874));
+}
+
+.eco{
+    position: absolute;
+    top: 600px;
+    left: 400px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.eco:hover{
+    background-color: rgb(68, 240, 231);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.zarya{
+    background-color: gray;
+    position: absolute;
+    top: 300px;
+    left:150px ;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.zarya:hover{
+    background-color: rgb(250, 36, 236);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.Junker{
+    background-color: gray;
+    position: absolute;
+    top: 110px;
+    left: 100px;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.Junker:hover{
+    background-color: rgb(2, 15, 253);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.cubana{
+    position: absolute;
+    top: 600px;
+    left: 500px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.cubana:hover{
+    background-color: rgb(84, 3, 109);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.mercy{
+    background-color: gray;
+    position: absolute;
+    top: 205px;
+    left: 700px;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.mercy:hover{
+    background-color: rgb(140, 150, 51);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.bastion{
+    position: absolute;
+    top: 600px;
+    left: 600px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.bastion:hover{
+    background-color: rgb(54, 123, 170);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.tracer{
+    position: absolute;
+    top: 700px;
+    left: 350px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.tracer:hover{
+    background-color: rgb(206, 120, 9);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.ashe{
+    position: absolute;
+    top: 700px;
+    left: 450px;
+    background-color: gray;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.ashe:hover{
+    background-color: rgb(83, 0, 0);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.boludo{
+    background-color: gray;
+    position: absolute;
+    top: 205px;
+    left: 900px;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.boludo:hover{
+    background-color: rgb(163, 205, 233);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.agricola{
+    background-color: gray;
+    position: absolute;
+    top: 110px;
+    left: 300px;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.agricola:hover{
+    background-color: rgb(61, 59, 59);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.porco{
+    background-color: gray;
+    position: absolute;
+    top: 210px;
+    left: 100px;
+    height:70px ;
+    width: 70px;
+    display: flex;
+    border-radius: 10px;
+    transition: background-color 1,8s ease;
+    margin: 15px 30px;
+
+}
+
+.porco:hover{
+    background-color: rgb(248, 187, 97);
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+
+.suporte{
+    top: 800px;
+    position: absolute;
+    display: flex;
+    left: 400px;
+    background: url(heroisfd.png);
+}
+
+.dano{
+    position: absolute;
+    display: flex;
+    left: 300px;
+    top: 400px;
+}
+
+.tanque{
+    display: flex;
+    position: absolute;
+    top: 795px;
+    
+}
+
+.elemento {
+    width: 100vw;
+    height: 105px;
+    background-color: rgb(255, 255, 255);
+}
+
+.back {
+    width: 100vw;
+    height: 765px;
+
+}
+
+.logo {
+    position: absolute;
+    width: 66.58px;
+    height: 66.58px;
+    left: 45px;
+    top: 19px;
+}
+
+.nome {
+    position: absolute;
+    width: 310.52px;
+    height: 48.69px;
+    left: 131.48px;
+    top: 27.24px;
+}
+
+.botão1 {
+    background-image: url(herois.png);
+    background-size: 204px 29px;
+    position: absolute;
+    width: 204px;
+    height: 29px;
+    left: 500px;
+    top: 42px;
+
+}
+
+.botão1:hover {
+    background-image: url(herois\ laranja.png);
+    background-size: 204px 48px;
+    position: absolute;
+    width: 204px;
+    height: 29px;
+    left: 500px;
+    top: 42px;
+}
+
+.botão2 {
+    background-image: url();
+    background-size: 164px 29px;
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 770px;
+    top: 42px;
+
+}
+
+.botão2:hover {
+    background-image: url();
+    background-size: 171px 49px;
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 770px;
+    top: 42px;
+}
+
+.botão3 {
+    background-image: url(mapas.png);
+    background-size: 164px 29px;
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 990px;
+    top: 42px;
+}
+
+.botão3:hover {
+    background-image: url(conheça\ os\ mapas\ laranja.png);
+    background-size: 164px 49px
+}
+
+.botão4 {
+    background-image: url(adquira\ o\ jogo.png);
+    background-size: 164px 29px;
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 1200px;
+    top: 42px;
+}
+
+body{
+margin: 0;
+padding: 0;   
+height: 100vh;
+width: 100vw; 
+
+}
+
+.content{
+    
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    position: absolute;
+    top: 500px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   background:url(fundo.png)
+
+}
+
+.navigation{
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translate(-50%);
+    display: flex;
+}
+
+.bar{
+    width: 70px;
+    height: 17px;
+    border: 2px solid #000000;
+    margin: 6px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .4s;
+}
+
+.bar:hover{
+    background-color: #5a5a5a;
+}
+
+input{
+    display: none;
+
+}
+
+.slides{
+    display: flex;
+    width: 500%;
+    height: 100%;
+}
+
+.slide{
+    width: 20%;
+    transition: .6s;
+}
+
+.slide img{
+    width: 100%;
+    height: 100%;
+}
+
+#slide1:checked~.s1{
+    margin-left: 0;
+}
+
+#radio2:checked~.s1{
+margin-left: -20%;
+}
+
+#radio3:checked~.s1{
+    margin-left: -40%;
+}
+
+.herois{
+    
+    height: 100%;
+    width: 100%;
+   display: flex;
+    position: absolute;
+    top: 900px;
+    
+   background:url(heroisfd.png)
+
+}
+
